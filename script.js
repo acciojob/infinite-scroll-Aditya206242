@@ -1,4 +1,3 @@
-//your code here!
 const list = document.getElementById("infi-list");
 
 let itemCount = 0;
